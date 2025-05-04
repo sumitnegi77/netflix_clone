@@ -220,7 +220,6 @@ textarea::placeholder {
 .trending-list {
     gap: 1rem;
     width: 87vw;
-    height: 125vh;
     margin: auto;
     background: transparent;
     color: white;
@@ -280,16 +279,18 @@ ul li img {
     /* border: 2px solid red; */
 
 }
-.container2 h1{
+.container2 .abc{
     margin-bottom: 1rem;
     font-weight: 500;
     font-size: 1.9rem;
+    margin-top: 4rem;
 }
-.container2 .b{
+.container2 .b h1{
     width: 100%;
     padding: 1.7rem;
-    margin: .7rem 0;
+    margin: .3rem 0;
     background-color: rgba(62, 62, 62, 0.795);
+    font-weight: 300;
 }
 /* -------------------------------------------------------------------------------- */
 
